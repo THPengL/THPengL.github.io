@@ -1,8 +1,6 @@
-# Liang Peng (彭亮)'s Personal Page
+# Liang Peng (彭亮)'s Personal Homepage
 
-Welcome to my personal page! 😄
-
-I'm a master student in Shantou University (STU) with a focus on machine learning, e.g. deep graph clustering, multi-view clustering, multi-modal learning, and bioinformatics.
+Hello! Welcome to my personal page! 😄 I am currently a master student in Shantou University (STU). My work focuses on deep graph clustering, multi-view clustering, multi-modal learning, and bioinformatics.
 
 
 ## Representative Works
@@ -11,7 +9,7 @@ Liang Peng, Yixuan Ye, Cheng Liu∗, Hangjun Che, Man-Fai Leung, Si Wu, and Hau-
 
 ...
 
-## Joint Works
+## Collaborative Works
 
 Xibiao Wang, Hang Gao, Xindian Wei, Liang Peng, Rui Li, Cheng Liu, Si Wu, Hau-San Wong. Contrastive Graph Distribution Alignment for Partially View-Aligned Clustering. ACM MM'24.
 
