@@ -2,12 +2,18 @@
 
 Welcome to my personal page! 😄
 
-I'm a master student in Shantou University (STU) with a focus on machine learning, e.g. graph clustering, muti-view clustering, and bioinformatics.
+I'm a master student in Shantou University (STU) with a focus on machine learning, e.g. deep graph clustering, multi-view clustering, multi-modal learning, and bioinformatics.
 
 
-## Recent Works
+## Representative Works
 
-Liang Peng, Yixuan Ye, Cheng Liu∗, Hangjun Che, Man-Fai Leung, Si Wu, and Hau-San Wong. Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. (Under review)
+Liang Peng, Yixuan Ye, Cheng Liu∗, Hangjun Che, Man-Fai Leung, Si Wu, and Hau-San Wong. Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. (Submitted)
+
+...
+
+## Joint Works
+
+Xibiao Wang, Hang Gao, Xindian Wei, Liang Peng, Rui Li, Cheng Liu, Si Wu, Hau-San Wong. Contrastive Graph Distribution Alignment for Partially View-Aligned Clustering. ACM MM'24.
 
 ...
 
