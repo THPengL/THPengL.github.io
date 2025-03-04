@@ -5,7 +5,7 @@ Hello! Welcome to my personal page! 😄 I am currently a master student in Shan
 
 ## Representative Works
 
-Liang Peng, Yixuan Ye, Cheng Liu∗, Hangjun Che, Man-Fai Leung, Si Wu, and Hau-San Wong. Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. (Submitted)
+Liang Peng, Yixuan Ye, Cheng Liu∗, Hangjun Che, Man-Fai Leung, Si Wu, and Hau-San Wong. Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. (Under Review)
 
 ...
 
